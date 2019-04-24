@@ -10,6 +10,7 @@ Edit the `index.html` file with the following:
 
 Bonus: Add a table with your weekly dream schedule (what you will do when the robots take over)
 
-### Submission
-- Deploy your work to a publicly available location and submit this URL as proof of work
+## Submission
+- Deploy your work to a publicly available location and submit this URL as "proof of work"
 - Submit a pull request (PR) to this repo on a branch labeled with your full name: `firstname-lastname`
+
