@@ -1,0 +1,22 @@
+{
+  "name": "dig245-a2",
+  "version": "1.0.0",
+  "description": "Edit the `index.html` file with the following:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wismith/dig245-a2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wismith/dig245-a2/issues"
+  },
+  "homepage": "https://github.com/wismith/dig245-a2#readme",
+  "dependencies": {
+    "surge": "^0.21.3"
+  }
+}

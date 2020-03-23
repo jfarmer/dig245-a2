@@ -1,0 +1,35 @@
+body {
+  background-color: darkgrey;
+  color: navy;
+}
+
+img {
+  width: 75%;
+  border: 2px solid navy;
+  border-radius: 5rem;
+  padding: 2%;
+}
+
+#cantina-button {
+  width: 5%;
+  height: 4%;
+  margin: 2% auto;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+header {
+  text-align: center;
+}
+
+#page-content {
+  width: 75%;
+  margin: 2% auto;
+  border: 2px solid navy;
+  border-radius: 5rem;
+  padding: 2%;
+}
