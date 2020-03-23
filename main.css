@@ -1,0 +1,16 @@
+body{
+  background-color: rgb(42, 11, 11);
+}
+img {
+  border-radius: 50%;
+}
+
+.grandbox{
+  border-color: beige;
+  margin-left: 450px;
+}
+
+#secondbox {
+  color: lightyellow;
+  margin-left:70px;
+}
