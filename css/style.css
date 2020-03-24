@@ -1,0 +1,20 @@
+h1 {
+  color: white;
+  font-size: 40px
+}
+#list {
+  float: center;
+  color: paleturquoise;
+  font-size: 26px;
+}
+h2{
+  font-size: 32px;
+  color: paleturquoise;
+  font-weight: bold;
+}
+#poodlePic {
+  float: center;
+}
+body {
+  background: rgb(35, 111, 134)
+}
