@@ -1,0 +1,31 @@
+
+
+body {
+  font-family: 'Economica', sans-serif;
+  font-size: 20px;
+  background-color: turquoise;
+}
+
+ol {
+  font-size: 30px;
+}
+
+p {
+  font-size: 20px;
+}
+
+.split {
+  height: 100%;
+  width: 50%;
+  position: fixed;
+}
+
+.left {
+  left: 0;
+  margin-left: 2%;
+}
+
+.right {
+  right: 0;
+  margin-top: 5.3%;
+}
