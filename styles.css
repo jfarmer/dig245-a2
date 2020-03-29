@@ -1,0 +1,35 @@
+table, th, td {
+  border: 1px solid black;
+}
+
+body {
+  background-color: lightskyblue;
+}
+
+h1 {
+  color: rgb(240, 100, 49);
+
+}
+
+h2 {
+  color: rgb(240, 100, 49);
+
+}
+
+ol {
+  color: darkblue;
+  font-style: oblique ;
+  font-size: 25px;
+}
+
+.blue {
+  color: darkblue;
+}
+
+.red {
+  color: darkred;
+}
+
+tr {
+  font-style: italic;
+}
