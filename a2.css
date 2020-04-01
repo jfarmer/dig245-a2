@@ -1,6 +1,12 @@
 html {
   background: linear-gradient(to right,#000,green);
   color: orange;
+  white-space: pre-line;
+  text-align: center;
+  list-style-position: inside;
+  font-size: 25px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  width: 100%;
 }
 .center {
   display: block;
@@ -9,6 +15,11 @@ html {
   max-width: 100%;
   height:auto;
 }
+html, body {
+  width: 100%;
+}
 table {
+  margin: 0 auto;
+  padding: 50px;
   border: 1px dotted orange;
 }
