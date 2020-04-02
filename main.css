@@ -1,0 +1,12 @@
+h1{
+  font-size: 72px;
+  color:navy;
+}
+h5{
+  font-size: 35px;
+}
+.images{
+  height: 30%;
+  width: 30%;
+  float: center
+}
